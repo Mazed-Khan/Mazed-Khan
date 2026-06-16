@@ -13,9 +13,14 @@
 <p align="left">
 
 <p align="center">
+  <!-- GitHub Stats card: shows commits, PRs, issues, stars, etc. -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mazed-Khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+
+  <!-- Top Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazed-Khan&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
+  <!-- GitHub Streak card: shows current and longest contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazed-Khan&theme=tokyonight" alt="GitHub Streak" />
 </p>
