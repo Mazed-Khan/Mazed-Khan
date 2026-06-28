@@ -9,7 +9,7 @@
 <a href="https://www.hackerrank.com/profile/thecodepirate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thecodepirate" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=c,python,androidstudio,javascript,react,flutter,git," />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,androidstudio,javascript,react,flutter,git," />
 <p align="left">
 
 <p align="center">
