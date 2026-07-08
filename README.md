@@ -12,15 +12,15 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,python,androidstudio,javascript,react,flutter,git," />
 <p align="left">
 
-<p align="center">
-  <!-- GitHub Stats card: shows commits, PRs, issues, stars, etc. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazed-Khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Github&Stats&username=ahnayef" height="150" alt="stats graph"  /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&username=ahnayef" height="150" alt="languages graph"  /> -->
+   <img src="https://github-readme-stats-fast.vercel.app/api?username=mazed-khan&hide=contribs&show_icons=true&theme=transparent&rank_icon=github&title_color=#48D2B0" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mazed-khan&layout=compact&theme=transparent&title_color=#48D2B0" height="150" alt="languages graph"  />
+  
+ 
+</div>
 
-  <!-- Top Languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazed-Khan&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak card: shows current and longest contribution streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazed-Khan&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mazed-khan&theme=transparent&title_color=#48D2B0" height="150" alt="Streak"/>
+</div>
